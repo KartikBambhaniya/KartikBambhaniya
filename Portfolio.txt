@@ -1,5 +1,0 @@
-Password : Admin@2005
-
-Name : id20991962_myportfolio
-Username : id20991962_kartikportfoliodatabase
-Password : KPDatabase@2005
