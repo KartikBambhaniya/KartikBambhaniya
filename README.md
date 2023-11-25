@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Kartik Bambhaniya
 
-> 👀 I’m Web Developer & Front-end Developer.
+> 👀 I’m UI/UX Designer | Web Developer | Brand Designer.
 
-> 👉 I know technologies like **HTML**, **CSS**, **JavaScript**, **PHP**, **MySQL** or **Figma** (as a **UI** designing tool).
+> 👉 I know technologies like **Figma**, **HTML**, **CSS**, **JavaScript** or **PHP**.
 
 > 🌱 I’m currently learning **Artificial Intelligence** at Parul University.
 
