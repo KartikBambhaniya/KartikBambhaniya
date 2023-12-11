@@ -34,6 +34,6 @@ Feel free to reach out to me through :
 
 If you find value in my work and would like to support me, you can :
 
-[![Buy Coffee For Me](https://kartikbambhaniya.github.io/KartikBambhaniya/Buy%20Coffee%20for%20me.svg)](upi://pay?pa=2005.bkartikh@oksbi&pn=Kartik%20Bambhaniya&am=20.00&cu=INR&aid=uGICAgMDh0f7zEA)
+[![Buy Coffee For Me](https://kartikbambhaniya.github.io/KartikBambhaniya/Buy%20Coffee%20for%20me.svg)]()
 
 Thank you for stopping by !! Let's create, innovate, and build amazing things together. 🚀
