@@ -22,14 +22,18 @@ I'm currently expanding my skill set by diving into the fascinating world of Art
 
 Feel free to reach out to me through :
 
-- [LinkedIn](https://www.linkedin.com/in/kartikbambhaniya) - Let's connect and share our professional journeys.
-- [Portfolio](https://kartikbambhaniya.github.io) - Explore my work and projects.
+- Let's connect and share our professional journeys.
+  
+  [![LinkedIn](https://kartikbambhaniya.github.io/KartikBambhaniya/Linkedin.svg)](https://www.linkedin.com/in/kartikbambhaniya)
+  
+- Explore my work and projects.
+  
+  [![LinkedIn](https://kartikbambhaniya.github.io/KartikBambhaniya/Portfolio.svg)](https://kartikbambhaniya.github.io/KartikBambhaniya)
 
 ## ☕ Support Me
 
-If you find value in my work and would like to support me, you can:
+If you find value in my work and would like to support me, you can :
 
-- **Follow Me:** Stay updated on my latest projects and contributions.
-- **Buy Me Coffee:** Your support keeps me fueled and motivated. [Buy me a coffee](#) to show your appreciation.
+[![Buy Coffee For Me](https://kartikbambhaniya.github.io/KartikBambhaniya/Buy%20Coffee%20for%20me.svg)](https://kartikbambhaniya.github.io/KartikBambhaniya)
 
-Thank you for stopping by! Let's create, innovate, and build amazing things together. 🚀
+Thank you for stopping by !! Let's create, innovate, and build amazing things together. 🚀
