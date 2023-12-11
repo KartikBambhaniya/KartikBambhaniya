@@ -28,7 +28,7 @@ Feel free to reach out to me through :
   
 - Explore my work and projects.
   
-  [![LinkedIn](https://kartikbambhaniya.github.io/KartikBambhaniya/Portfolio.svg)](https://kartikbambhaniya.github.io/KartikBambhaniya)
+  [![Portfolio](https://kartikbambhaniya.github.io/KartikBambhaniya/Portfolio.svg)](https://kartikbambhaniya.github.io/KartikBambhaniya)
 
 ## ☕ Support Me
 
